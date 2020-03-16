@@ -56,7 +56,7 @@ display: inline;
 }
 .main-page{
   text-align: center;
-  background: url('../images/worker.jpeg');
+  background: url('worker.jpeg');
   background-size:cover;
   padding: 150px;
   color: white;
